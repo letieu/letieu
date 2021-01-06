@@ -1,3 +1,6 @@
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+
+
 <h1 align="center">Hi 👋, I'm Tieu</h1>
 <h3 align="center">Fullstack web developer</h3>
 
