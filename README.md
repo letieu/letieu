@@ -4,9 +4,9 @@
 <h3 align="center">Fullstack web developer</h3>
 
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning ** golang **
 
-- 💬 Ask me about **Vuejs, laravel**
+- 💬 Ask me about **Vuejs, laravel, nodejs, reactjs, golang, python, c, c++ **
 
 - 📫 How to reach me **letieu8@gmail.com**
 
