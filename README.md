@@ -1,12 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Tieu</h1>
-<h3 align="center">Fullstack web developer</h3>
+<h3 align="center">Fullstack, blockchain developer</h3>
 
 
-- 🌱 I’m currently learning **golang**
-
-- 💬 Ask me about **Vuejs, laravel, nodejs, reactjs, golang, python, c, c++**
+- 💬 Ask me about **Blockchain, Solidity, Vuejs, nodejs,laravel, reactjs, golang, python, c, lua**
 
 - 📫 How to reach me **letieu8@gmail.com**
 
