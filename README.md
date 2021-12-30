@@ -8,4 +8,4 @@
 
 - 📫 How to reach me **letieu8@gmail.com**
 
-- 📄 Know about my experiences [letieu.github.io](letieu.github.io)
+- 📄 Know about my experiences [letieu.github.io](https://coingen20.netlify.app/)
