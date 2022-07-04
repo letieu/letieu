@@ -4,7 +4,7 @@
 <h3 align="center">Fullstack, blockchain developer</h3>
 
 
-- 💬 Ask me about **Blockchain, Solidity, Vuejs, Nestjs, Nodejs, reactjs, golang, lua**
+- 💬 Ask me about **Blockchain, Solidity, Nestjs, Vuejs, Reactjs, Golang**
 
 - 📫 How to reach me **letieu8@gmail.com**
 
