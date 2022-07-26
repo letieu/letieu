@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Tieu</h1>
-<h3 align="center">Fullstack, blockchain developer</h3>
+<h3 align="center">Nodejs, blockchain developer</h3>
 
 
-- 💬 Ask me about **Blockchain, Solidity, Nestjs, Vuejs, Reactjs, Golang**
+- 💬 Ask me about **Rust, Blockchain, Solidity, Nestjs, Vuejs, Reactjs, Golang**
 
 - 📫 How to reach me **letieu8@gmail.com**
 
