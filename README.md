@@ -4,7 +4,7 @@
 <h3 align="center">Nodejs, blockchain developer</h3>
 
 
-- 💬 Ask me about **Rust, Blockchain, Solidity, Nestjs, Vuejs, Reactjs, Golang**
+- 💬 Ask me about **Nestjs, Blockchain, Solidity, Vuejs, Reactjs, Rust, Golang**
 
 - 📫 How to reach me **letieu8@gmail.com**
 
