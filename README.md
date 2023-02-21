@@ -4,7 +4,7 @@
 <h3 align="center">Developer</h3>
 
 
-- 💬 Ask me about **Nestjs, Blockchain, Solidity, Vuejs, Reactjs, Rust, Golang**
+- 💬 Ask me about **Nestjs, Solidity, Vuejs, Reactjs, Rust, Golang**
 
 - 📫 How to reach me **letieu8@gmail.com**
 
