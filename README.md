@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tieu</h1>
-<h3 align="center">Nodejs, web developer</h3>
+<h3 align="center">Developer</h3>
 
 
 - 💬 Ask me about **Nestjs, Blockchain, Solidity, Vuejs, Reactjs, Rust, Golang**
