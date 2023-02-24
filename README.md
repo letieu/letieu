@@ -6,7 +6,8 @@
 
 - 💬 Ask me about:
   - **Typescript, Rust, Solidity, Lua**
-  - **Linux, Docker, Blockchain**
+  - **Nestjs, Vuejs, Reactjs, Laravel**
+  - **Linux, Docker, Blockchain, Cloud**
 
 - 📫 How to reach me **letieu8@gmail.com**
 
