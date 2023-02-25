@@ -8,7 +8,7 @@
   - **Typescript, Rust, Solidity, Lua**
   - **Nestjs, Vuejs, Reactjs, Laravel**
   - **Linux, Docker, Blockchain, Cloud**
-
+- 🥏 Want to learn: System design, Cloud, Rust
 - 📫 How to reach me **letieu8@gmail.com**
 
 - 📄 Know about my experiences [letieu.github.io](https://coingen20.netlify.app/)
