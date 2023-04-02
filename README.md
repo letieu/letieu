@@ -9,7 +9,7 @@
   - **Nestjs, Vuejs, Reactjs, Laravel**
   - **Linux, Docker, Blockchain, Cloud**
   
-- 🎯 Want to learn: 
+- 🎯 Goal: 
   - **System design, Cloud, Rust**
   
 - 📫 How to reach me **letieu8@gmail.com**
