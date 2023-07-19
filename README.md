@@ -10,7 +10,7 @@
   - **Linux, Docker, Blockchain, Cloud, DevOps**
   
 - 🎯 Goal: 
-  - **System design, Cloud, Rust**
+  - **System design, Cloud, ML, Rust**
   
 - 📫 How to reach me **letieu8@gmail.com**
 
