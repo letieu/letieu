@@ -6,8 +6,7 @@
 
 - 💬 Ask me about:
   - **Typescript, Rust, Solidity, Lua**
-  - **Nestjs, Vuejs, Reactjs, Laravel**
-  - **Linux, Docker, Blockchain, Cloud, DevOps**
+  - **Linux, Cloud, DevOps**
   
 - 🎯 Goal: 
   - **System design, Cloud, ML, Rust**
