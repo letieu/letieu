@@ -6,7 +6,7 @@
 
 - 💬 Ask me about:
   - **Typescript, Rust, Solidity, Lua**
-  - **Linux, Cloud, DevOps**
+  - **Linux, Cloud**
   
 - 🎯 Goal: 
   - **System design, Cloud, ML, Rust**
