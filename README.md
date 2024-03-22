@@ -9,7 +9,7 @@
   - **Linux, Cloud**
   
 - 🎯 Goal: 
-  - **System design, Cloud, ML, Rust**
+  - **System design, Cloud, Rust**
   
 - 📫 How to reach me **letieu8@gmail.com**
 
