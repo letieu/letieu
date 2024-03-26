@@ -5,12 +5,5 @@
 
 
 - 💬 Ask me about:
-  - **Typescript, Rust, Solidity, Lua**
+  - **Typescript, Golabg, Rust, Lua**
   - **Linux, Cloud**
-  
-- 🎯 Goal: 
-  - **System design, Cloud, Rust**
-  
-- 📫 How to reach me **letieu8@gmail.com**
-
-- 📄 Know about my experiences [letieu.github.io](https://coingen20.netlify.app/)
