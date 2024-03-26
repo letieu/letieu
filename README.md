@@ -6,5 +6,8 @@
 - github copilot user
 - neovim user
 - want to be a hacker
+- still don't know how to use debuger
+
+
 
 *I don't always test my code...But when I do, I do it in production*
