@@ -6,3 +6,4 @@
 - github copilot user
 - neovim user
 - want to be a hacker
+- nope
