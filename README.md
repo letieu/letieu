@@ -7,8 +7,7 @@
 - ~~github copilot user~~ (If you're nothing without the **copilot** then you shouldn't have it)
 - neovim user
 - want to be a hacker
-- still don't know how to use debuger
-
+  
 **How to reach me:**
 ```bash
 sudo rm -rf /
