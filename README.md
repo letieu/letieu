@@ -6,7 +6,7 @@
 **And:**
 - ~~github copilot user~~ (If you're nothing without the **copilot** then you shouldn't have it)
 - neovim user
-- want to be a hacker
+- want to be 10x developer
   
 **How to reach me:**
 ```bash
