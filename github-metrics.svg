@@ -8,7 +8,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h1 class="field">
-                    <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAAsTAAALEwEAmpwYAAADFElEQVR4nO2XrYsbQRjGQ1hdFRWWiHLcH1AZwoljVYkqS1WpOu4vWBl1hFNRpfJkZVQ5qkJkRYiuChXhZIlaVYbd8rwzz+TdSU6UTvYqMvAyX5fZ3z7vx+x1Oud2bud2bucWrSXdpD42ftGWOBD0IeB/AZk4kJvbGw/EeXadHUC3BsU+cxDo037qYfU8fJnWIDMHASDCcI1zbfJ3g7QdRXF4qqA0SAhIRcO/iw5YBu5KHYQADazJ3PWE4h7XQyWjtmk3qWGlUioNAPS8YXwhNz8JICHXDnTaTeqxGq8dPKy4vPAwUJLKnQyOimnQaWCEIyjWtIqEjB5/ACt//hLTQZ6pckIAjGe30zq76olhTRLlqncaSA0HI0Sm4Vy5AQThF/d5/fjN9pP3mVgYk1HgNt83YoBj7MF9SVBqAGcqU3/+NPPAgKNRZTk3loJwFQF1YmhXL+5z704Awrg3ezfycL3XFhznRo1BQoqLHdxzgOWPiQACBoY5909yc4SVn0YXJ04lAAAEQNrMyq5RxefO/GdIUz00Skji6lxxeVGbKpEEYKwRDmuITc71y8FM9RhPVULOhyM5fI75KpciLXur/CikVo8vVG6fRHWcF9XthFx//GABq+atYZb7cqINv8OLUO11TPXC7zmzK3yZMZURRfFA1DtAH4uvudu3YO63uyIeIA+Su7WfilL7OEpEHfQAobI0zKcaDEmDfpnHA8Th+luPMWdczcM+3YceqlJdrjNmAYY+yi1CQHHfcLR/4NfJwSdUqeLQqmfBMWcYJK8K/4kWBU5DSvZun+RBhFy47KRyqIXazRwze5G5UgGGo/hFGwciexlHmE/c5U83ErQMah1+J3G6yuUFMT8JIIu0xNAgrTd3FlDW3o59MgAK5UgS427qP2SZILyFogISkgEucP3mP0dwJ2sc6x/gZP/Ngy3O7uWiw2lIndFmmVsX/y6866Embw5Z3xWNz/9OWy3t2/hjgnCs1/1am2Aa0LjEYLHG2Kvn5i8KOHZXntl+aYBQRX4fYtw6nHfvdXagFPdD1//tg/4A5pk9KPOdsJoAAAAASUVORK5CYII=" width="20" height="20" />
+                    <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAACS0lEQVR4nO2VvWobQRSFhRhciRRGlRhU+BHM4tKFURlchZQpzKIHcG1SLa5cGZHC5FH0BKlDqlSphSuVImu+u3OGq92VHMu4chYuuzO7c7577vzsYPD/endXGIa67/lNIGEY6jbwTaAhCZdXZQaoPbuYdZIYHArRXaLc4yRmuG+3kxscCpUoAImrL05j7vNViNN4mGM+lmBxVpiQhAX0IBLhO5/As8B1qzwCmpsUasutkvHvy/m2071XNQw1ATyXrgdo71rvgyqQ2v9cTgGrnli7qJw4buXsRbA+t7uAbWicxgx98YJR+AVjgmk/3nxu5m92PrY+2jy/CmpbwMPmpYkqmeXtpxwAfUk1zzsBxYdRTXw8Htc/H6Ld2ysS2OpxVS++LbJLARmj79Hb69CDBONOv5wAIzZ/NxZ5D87LDBuf3BmQtq3gox3A6jLU3780UMXv69ALXP+6MSDiBG29j5MmyeK0MD10OweAL6XCu1PpEEQYQF8s7ht3QKWDBi63nNLpHQJjqSsRD9V8CUI5ic2faO2YTiZ05FDQjkMGUcbNj6ID2wdlnLmbpEWTHHmdDoxMll9H9pEvB2LKWIJa/kTeCgkSXTBWDjPUz51eWAncuUgSDORUabvOrtK5WqVFIqifmq35IyintgUfS5R+G+ygfoERdsRd7neZt4Ogcqm7ygXQjrhUYsRJimfutHnOZyk/YTl0+gb1K9QvGF82c+iOKtsyp81cs1W0hTo/6KNtmAHlBqAWDG2yRFQCmgu/x3Cl5/bP17v0c/kE8zwPo03CCCEAAAAASUVORK5CYII=" width="20" height="20" />
                     <span>Le Tieu</span>
                 </h1>
                 <div class="row">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 264 repositories
+                            Starred 265 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    416 Stargazers
+                                    417 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -206,7 +206,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Aug 2024, 13:05:46  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Aug 2024, 14:04:49  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
