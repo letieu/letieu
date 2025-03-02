@@ -4,6 +4,6 @@
 <h3 align="center">Yet another developer</h3>
 
 **And:**
-- ~~github copilot user~~ (If you're nothing without the **copilot** then you shouldn't have it)
+- enjoyer
 - neovim user
 - want to be 10x developer
