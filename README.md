@@ -4,6 +4,6 @@
 <h3 align="center">Yet another developer</h3>
 
 **And:**
-- enjoyer
+- linux enjoyer
 - neovim user
 - want to be 10x developer
